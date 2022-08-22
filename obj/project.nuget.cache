@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LVfvNYYqIdyTqxxCdKuWFjeznVBbuhr8yMhlz00khD8U6fVNHSAub3OBjryZMvBXnTphgiDFKGSlCE9yyVpYow==",
+  "success": true,
+  "projectFilePath": "D:\\MyStudy\\REST API\\Telegram API\\Test3\\system32.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+CMD
+Перейти в директорію із .cs файлом, наприклад:
+D:\>cd D:\MyStudy\REST API\Telegram API
+
+Виконати команду: 
+dotnet run
+
+Links:
+https://telegrambots.github.io/book/2/send-msg/
+https://core.telegram.org/bots/api#markdown-style
+https://core.telegram.org/bots/api#getme
